@@ -1,5 +1,5 @@
 # Cefpython3 Wrapper
-cef_wrapper.py allows autocompleting & methods highlighting for the cefpython3 library.
+cef_wrapper.py allows autocompleting & syntax highlighting for the cefpython3 library.
 
 ---
 
