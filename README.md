@@ -3,7 +3,7 @@ cef_wrapper.py allows autocompleting & syntax highlighting for the cefpython3 li
 
 ---
 
-The goal of the `cef_wrapper.py` file is to implement docstrings & auto-completing
+The goal of the `cef_wrapper.py` file is to implement docstrings & autocompleting
 for the cefpython3 project.
 
 - `cef` defines the main class that contains multiple other classes.
